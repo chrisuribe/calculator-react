@@ -1,12 +1,14 @@
 .result {
   height: 60px;
-  background-color: #bbb;
+  background-color: #2d2f33;
   width: 100%;
+  color: white;
 }
 
 .result p {
   font-size: 40px;
   margin: 5px;
+  text-align: right;
 }
 
 .calculator-body {
@@ -16,16 +18,11 @@
 
 .button {
   display: block;
-  /*  background-color: #bbb;*/
+  background-color: #2d2f33;
 }
 
 button {
   width: 25%;
   height: 60px;
   font-size: 30px;
-}
-
-.btn-flat {
-  background-color: purple;
-  color: red;
 }
