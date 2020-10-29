@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import ResultComponent from './components/ResultComponent';
 import KeyPadComponent from "./components/KeyPadComponent";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 class App extends Component {
     constructor(){
